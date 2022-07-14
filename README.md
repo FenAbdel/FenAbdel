@@ -1,7 +1,7 @@
-Hi 👋 My name is Fenniri Abdeljalil
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abdeljalil Fenniri
 ===================================
 
-software engineering studant
+software engineering studant 
 ----------------------------
 
 Starting my everyday life as a junior software engineer, trying to learn some new technologies to improve my soft skills ,and searching for some news on software development and computer science in general
