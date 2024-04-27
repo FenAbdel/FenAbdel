@@ -1,19 +1,32 @@
-Hi 🙋🏻‍♂️ My name is Abdeljalil Fenniri
+👋 Hi, I'm Abdeljalil Fenniri
 ===================================
 
-software engineering studant 
+Software engineering and data science studant 
 ----------------------------
 
-Starting my everyday life as a junior software engineer, trying to learn some new technologies to improve my soft skills ,and searching for some news on software development and computer science in general
+🧠 Currently, I'm diving deep into the world of data science and machine learning, eager to expand my knowledge and skills in this exciting field.
+🔍 Always on the lookout for the latest news and developments in data science and computer science in general, I'm passionate about staying up-to-date with emerging technologies and trends.
 
-* 🌍  I'm based in morocco
+
 * ✉️  You can contact me at [abdeljalil.fenniri@gmail.com](mailto:abdeljalil.fenniri@gmail.com)
-* 🧠  I'm learning software engineering
-* 🤝  I'm open to collaborating on fullstack internship
+* 🤝  I'm open to collaborating on data science internships
 
 
 ### Skills
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikit-learn-colored.svg" width="36" height="36" alt="scikit-learn" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" /></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matplotlib-colored.svg" width="36" height="36" alt="Matplotlib" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/seaborn-colored.svg" width="36" height="36" alt="Seaborn" /></a>
+<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlalchemy-colored.svg" width="36" height="36" alt="SQLAlchemy" /></a>
+</p>
 
+---
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
