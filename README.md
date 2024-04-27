@@ -8,8 +8,14 @@ Software engineering and data science studant
 🔍 Always on the lookout for the latest news and developments in data science and computer science in general, I'm passionate about staying up-to-date with emerging technologies and trends.
 
 
-* ✉️  You can contact me at [abdeljalil.fenniri@gmail.com](mailto:abdeljalil.fenniri@gmail.com)
-* 🤝  I'm open to collaborating on data science internships
+*  ✉️ Feel free to reach out to me at [abdeljalil.fenniri@gmail.com](mailto:abdeljalil.fenniri@gmail.com).
+*  🤝 I'm actively seeking opportunities for collaboration in the realm of data science internships.
+
+
+
+
+
+
 
 
 ### Languages and Tools:
